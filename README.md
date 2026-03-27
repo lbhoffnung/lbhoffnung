@@ -64,9 +64,9 @@
 
 | Repositório | Descrição |
 |:---|:---|
-| [**data-analysis-lab**](https://github.com/behw0/data-analysis-lab) | Projetos de análise exploratória, dashboards e queries SQL |
-| [**data-science-lab**](https://github.com/behw0/data-science-lab) | Projetos de Machine Learning, automação e ciência de dados aplicada |
-| [**economic-sciences-lab**](https://github.com/behw0/economic-sciences-lab) | Pesquisa empírica: econometria, inferência causal e forecasting macroeconômico |
+| [**data-analysis-lab**](https://github.com/lbhoffnung/data-analysis-lab) | Projetos de análise exploratória, dashboards e queries SQL |
+| [**data-science-lab**](https://github.com/lbhoffnung/data-science-lab) | Projetos de Machine Learning, automação e ciência de dados aplicada |
+| [**economic-sciences-lab**](https://github.com/lbhoffnung/economic-sciences-lab) | Pesquisa empírica: econometria, inferência causal e forecasting macroeconômico |
 
 </div>
 
