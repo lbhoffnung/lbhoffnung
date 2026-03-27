@@ -75,9 +75,9 @@
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lbhoffnung&custom_title=Lucas+H+Bernardo&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&icon_color=A855F7&title_color=A855F7" height="165" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lbhoffnung&custom_title=Lucas+H+Bernardo&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&icon_color=A855F7&title_color=A855F7&cache_seconds=1800" height="165" width="380"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbhoffnung&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6&title_color=A855F7" height="165" width="280"/>
+  <img src="https://streak-stats.demolab.com?user=lbhoffnung&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" height="165" width="380"/>
 </div>
 
 ---
