@@ -86,16 +86,6 @@
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lbhoffnung&custom_title=Lucas+H+Bernardo&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&icon_color=A855F7&title_color=A855F7" height="165" width="380"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbhoffnung&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6&title_color=A855F7" height="165" width="280"/>
-</div>
-
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/bertsmz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
