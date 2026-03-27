@@ -86,6 +86,18 @@
 
 ---
 
+## 📊 Stats
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lbhoffnung/lbhoffnung/main/profile-summary-card-output/midnight_purple/0-profile-details.svg" width="100%"/>
+  <br>
+  <img src="https://raw.githubusercontent.com/lbhoffnung/lbhoffnung/main/profile-summary-card-output/midnight_purple/3-stats.svg" width="49%"/>
+  <img src="https://raw.githubusercontent.com/lbhoffnung/lbhoffnung/main/profile-summary-card-output/midnight_purple/1-repos-per-language.svg" width="49%"/>
+</div>
+
+---
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/bertsmz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
