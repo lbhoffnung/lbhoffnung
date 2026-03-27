@@ -1,5 +1,3 @@
-@@ -1,28 +1,101 @@
-<h2 align="center">👨🏻‍💻 About Me</h2>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120&section=header" width="100%"/>
@@ -28,53 +26,61 @@
 
 ## 🧠 Stack
 
-**Data & BI**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+<table>
+  <tr>
+    <td><b>📊 Data & BI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖 Data Science & ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>📐 Quantitative Methods</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/statsmodels-A855F7?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Prophet-A855F7?style=flat-square"/>
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🚀 Deploy & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-###
-**Data Science & ML**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-<p align="left" style="font-size:18px;">
-The economy serves as the vital pulse of society, mathematics provides the cosmic vernacular, data science offers the penetrating gaze, and artificial intelligence assumes the role of master builder of the future; in concert, they create the grand narrative of human progress.
-**Quantitative Methods**  
-![statsmodels](https://img.shields.io/badge/statsmodels-A855F7?style=flat-square)
-![Prophet](https://img.shields.io/badge/Prophet-A855F7?style=flat-square)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-
-📬 Contact me by email at lumatizerh@hotmail.com</p>
-**Deploy & Tools**  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-sapere aude!
 ---
 
-###
 ## 🗂️ Labs
 
 <div align="center">
 
 | Repositório | Descrição |
 |:---|:---|
-| [**data-analysis-lab**](https://github.com/behw0/data-analysis-lab) | Projetos de análise exploratória, dashboards e queries SQL |
-| [**data-science-lab**](https://github.com/behw0/data-science-lab) | Projetos de Machine Learning, automação e ciência de dados aplicada |
-| [**economic-sciences-lab**](https://github.com/behw0/economic-sciences-lab) | Pesquisa empírica: econometria, inferência causal e forecasting macroeconômico |
+| [**SciAudit**](https://github.com/lbhoffnung/SciAudit) | Auditor de integridade científica para código Python |
+| [**sandbox-lab**](https://github.com/lbhoffnung/sandbox-lab) | Laboratório de experimentação e protótipos |
 
 </div>
 
@@ -83,12 +89,11 @@ sapere aude!
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=behw0&custom_title=Lucas+H+Bernardo&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&icon_color=A855F7&title_color=A855F7" height="165" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lbhoffnung&custom_title=Lucas+H+Bernardo&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&icon_color=A855F7&title_color=A855F7" height="165" width="380"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behw0&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6&title_color=A855F7" height="165" width="280"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbhoffnung&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6&title_color=A855F7" height="165" width="280"/>
 </div>
 
-###
 ---
 
 <div align="center">
@@ -98,7 +103,7 @@ sapere aude!
   <a href="https://www.instagram.com/bertsmzs/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="lumatizerh@hotmail.com" target="_blank">
+  <a href="mailto:lumatizerh@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
 
