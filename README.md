@@ -73,15 +73,32 @@
 
 ---
 
-## 🗂️ Labs
+## 🔬 Portfolio · Seis Joias
 
 <div align="center">
+<i>Seis projetos, dois por repositório. Cada um com pergunta original, dado difícil,<br>
+método de fronteira e <b>conclusão honesta</b> — inclusive quando o resultado é um nulo.</i>
+</div>
 
-| Repositório | Descrição |
-|:---|:---|
-| [**SciAudit**](https://github.com/lbhoffnung/SciAudit) | Auditor de integridade científica para código Python |
-| [**sandbox-lab**](https://github.com/lbhoffnung/sandbox-lab) | Laboratório de experimentação e protótipos |
+<br>
 
+### 📈 [economic-sciences-lab](https://github.com/lbhoffnung/economic-sciences-lab) — econometria aplicada ao Brasil
+
+- **[O Custo da Caneta](https://github.com/lbhoffnung/economic-sciences-lab/tree/main/custo-da-caneta-bcb)** — o tom das atas do Copom move a expectativa de inflação? Event study em 80 reuniões (NLP-PT + Focus): o efeito é **pequeno e indistinguível de zero** — a "caneta" move menos do que o senso comum supõe.
+- **[Nowcasting do PIB](https://github.com/lbhoffnung/economic-sciences-lab/tree/main/nowcasting-pib)** — um *bridge* com energia (ONS) + IBC-Br **empata com o consenso Focus** (RMSE 0,81 vs 0,83) e cravou o PIB de 2026T2 semanas antes do IBGE.
+
+### 🤖 [data-science-lab](https://github.com/lbhoffnung/data-science-lab) — ML a serviço da inferência
+
+- **[Double/Debiased ML](https://github.com/lbhoffnung/data-science-lab/tree/main/double-ml-heterogeneidade)** — no clássico Lalonde, o DML remove ~80% do viés observacional mas **não recupera o experimento**: a identificação vem do desenho, não do algoritmo.
+- **[Forecasting hierárquico (M5)](https://github.com/lbhoffnung/data-science-lab/tree/main/forecasting-hierarquico-m5)** — benchmark honesto: um **AutoETS bem ajustado bate tudo**, e a reconciliação MinT ajuda pouco. O clássico vence.
+
+### 📊 [data-analysis-lab](https://github.com/lbhoffnung/data-analysis-lab) — dado que vira decisão
+
+- **[Seu A/B test está mentindo (SUTVA)](https://github.com/lbhoffnung/data-analysis-lab/tree/main/ab-test-sutva)** — em marketplaces, o A/B individual **superestima o efeito em 4,5×**; cluster randomization corrige. Termina em um memo de uma página.
+- **[100 anos de inflação](https://github.com/lbhoffnung/data-analysis-lab/tree/main/cem-anos-inflacao)** — série mensal citável 1980–2026; a detecção de quebras (Bai-Perron) **redescobre os planos econômicos** sozinha.
+
+<div align="center">
+<sub>Outros: <a href="https://github.com/lbhoffnung/SciAudit">SciAudit</a> · <a href="https://github.com/lbhoffnung/sandbox-lab">sandbox-lab</a></sub>
 </div>
 
 ---
