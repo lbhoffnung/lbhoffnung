@@ -34,7 +34,6 @@
       <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black"/>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
     </td>
   </tr>
@@ -47,7 +46,6 @@
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
     </td>
   </tr>
@@ -55,18 +53,17 @@
     <td><b>📐 Quantitative Methods</b></td>
     <td>
       <img src="https://img.shields.io/badge/statsmodels-A855F7?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Prophet-A855F7?style=flat-square"/>
-      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+      <img src="https://img.shields.io/badge/statsforecast-A855F7?style=flat-square"/>
+      <img src="https://img.shields.io/badge/darts-A855F7?style=flat-square"/>
+      <img src="https://img.shields.io/badge/EconML-A855F7?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td><b>🚀 Deploy & Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -99,17 +96,6 @@ Cada projeto tem pergunta original, dado difícil, método de fronteira e <b>con
 
 <div align="center">
 <sub>Outros: <a href="https://github.com/lbhoffnung/SciAudit">SciAudit</a> · <a href="https://github.com/lbhoffnung/sandbox-lab">sandbox-lab</a></sub>
-</div>
-
----
-
-## 📊 Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lbhoffnung/lbhoffnung/main/profile-summary-card-output/midnight_purple/0-profile-details.svg" width="100%"/>
-  <br>
-  <img src="https://raw.githubusercontent.com/lbhoffnung/lbhoffnung/main/profile-summary-card-output/midnight_purple/3-stats.svg" width="49%"/>
-  <img src="https://raw.githubusercontent.com/lbhoffnung/lbhoffnung/main/profile-summary-card-output/midnight_purple/1-repos-per-language.svg" width="49%"/>
 </div>
 
 ---
