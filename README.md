@@ -73,11 +73,11 @@
 
 ---
 
-## 🔬 Portfolio · Seis Joias
+## 🔬 Portfolio
 
 <div align="center">
-<i>Seis projetos, dois por repositório. Cada um com pergunta original, dado difícil,<br>
-método de fronteira e <b>conclusão honesta</b> — inclusive quando o resultado é um nulo.</i>
+<i>Econometria, causal ML e forecasting aplicados ao Brasil, em três repositórios.<br>
+Cada projeto tem pergunta original, dado difícil, método de fronteira e <b>conclusão honesta</b>.</i>
 </div>
 
 <br>
