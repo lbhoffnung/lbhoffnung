@@ -103,9 +103,12 @@ Cada projeto tem pergunta original, dado difícil, método de fronteira e <b>con
 - **[Seu A/B test está mentindo (SUTVA)](https://github.com/lbhoffnung/data-analysis-lab/tree/main/ab-test-sutva)** — em marketplaces, o A/B individual **superestima o efeito em 4,5×**; cluster randomization corrige. Termina em um memo de uma página.
 - **[100 anos de inflação](https://github.com/lbhoffnung/data-analysis-lab/tree/main/cem-anos-inflacao)** — série mensal citável 1980–2026; a detecção de quebras (Bai-Perron) **redescobre os planos econômicos** sozinha.
 
-<div align="center">
-<sub>Outros: <a href="https://github.com/lbhoffnung/SciAudit">SciAudit</a> · <a href="https://github.com/lbhoffnung/sandbox-lab">sandbox-lab</a></sub>
-</div>
+### 🛡️ [SciAudit](https://github.com/lbhoffnung/SciAudit) — ferramenta open source
+
+- **Linter de integridade científica** para Python e Jupyter. Enquanto Pylint checa se o
+código é *bonito*, o SciAudit checa se ele é **honesto**: detecta *data leakage*, exige
+sementes determinísticas e alerta sobre armadilhas metodológicas. Zero dependências, e
+audita o próprio repositório a cada commit.
 
 ---
 
